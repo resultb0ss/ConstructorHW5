@@ -1,3 +1,5 @@
 fun main() {
-    println("Hello World!")
+    var car = Car(100,200)
+    car.go()
+    car.stop()
 }
